@@ -19,7 +19,7 @@ const words = [
     { id: 18, text: "조짐 조", image: "18.png" },
     { id: 19, text: "방 방", image: "19.png" },
     { id: 20, text: "넷 사", image: "20.png" },
-    { id: 21, text: "벗 사", image: "21.png" },
+    { id: 21, text: "벗 우", image: "21.png" },
     { id: 22, text: "지을 작", image: "22.png" },
     { id: 23, text: "셋 삼", image: "23.png" },
     { id: 24, text: "풀 초", image: "24.png" },
